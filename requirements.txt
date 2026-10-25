@@ -1,0 +1,14 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-groq
+langchain-google-genai
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+docker
+PyGithub
+requests
+python-dotenv
+pytest
