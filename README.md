@@ -78,7 +78,7 @@ docs/         screenshots
 **Requirements:** Python 3.10+, Docker Desktop (running), a Groq API key, a Google API key, a GitHub token (classic, `repo` scope).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ishaan0901/ShipForge_AI
 cd ShipForge_AI
 python -m venv venv
 venv\Scripts\activate          # Windows
